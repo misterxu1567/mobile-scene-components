@@ -1,0 +1,26 @@
+{
+  "name": "vue-audio-cover-x",
+  "version": "1.0.1",
+  "description": "this is a audio component for vue2.5",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterxu1567/vue-audio-components/tree/master/vue-audio-cover-x"
+  },
+  "bugs": {
+    "url": "https://github.com/misterxu1567/vue-audio-components/issues"
+  },
+  "keywords": [
+    "audio",
+    "vueAudio",
+    "vueAudioCover",
+    "vue-audio-x",
+    "vue-audio-cover-x",
+    "vue-audio"
+  ],
+  "author": "misterXu",
+  "license": "ISC"
+}

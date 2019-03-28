@@ -17,12 +17,12 @@ npm install vue-audio-x -D
     </div>
 </template>
 <script>
-    import VueAudio form 'vue-audio-x';
+    import AudioPlayer form 'vue-audio-x';
 
     export default {
         name: 'App',
         components: {
-            VueAudio
+            AudioPlayer
         },
         data () {
             return {

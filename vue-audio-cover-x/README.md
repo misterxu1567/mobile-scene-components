@@ -16,12 +16,12 @@ npm install vue-audio-cover-x -D
     </div>
 </template>
 <script>
-    import VueAudio form 'vue-audio-cover-x';
+    import AudioPlayer form 'vue-audio-cover-x';
 
     export default {
         name: 'App',
         components: {
-            VueAudio
+            AudioPlayer
         },
         data () {
             return {

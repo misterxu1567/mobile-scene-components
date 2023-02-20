@@ -17,7 +17,7 @@
 -  触底加载
 
 <p>
-  <img src="https://raw.githubusercontent.com/misterxu1567/img-static/master/aduio.png" alt="时间组件预览" width="100">
+  <img src="https://raw.githubusercontent.com/misterxu1567/img-static/master/audio.png" alt="音乐播放器" width="100">
   <img src="https://raw.githubusercontent.com/misterxu1567/img-static/master/camera.png" alt="手机拍照" width="100">
   <img src="https://raw.githubusercontent.com/misterxu1567/img-static/master/notice.png" alt="通知栏" width="100">
   <img src="https://raw.githubusercontent.com/misterxu1567/img-static/master/slide.png" alt="滑动条" width="100">

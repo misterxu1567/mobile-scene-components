@@ -1,0 +1,104 @@
+body {
+    padding: 0;
+    margin: 0;
+    margin: 0 auto;
+    min-width: 320px;
+    max-width: 640px;
+    color: #333;
+    font-family: PingFangSC-regular, 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    background: #fff;
+}
+.preventSrcoll{
+    position: fixed;
+    height: 100%;
+}
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+
+button {
+    border: none;
+    background: none;
+}
+
+section, article, header, footer, aside, nav {
+    padding: 0;
+    margin: 0;
+    display: block
+}
+
+input, select, button, textarea {
+    font-size: 14px;
+    font-family: \5FAE\8F6F\96C5\9ED1
+}
+
+input[type="button"], input[type="email"], input[type="image"], input[type="number"], input[type="password"], input[type="search"], input[type="submit"], input[type="reset"], input[type="text"], input[type="tel"], input[type="url"], button, textarea, select {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    resize: none;
+    cursor: pointer;
+    border-radius: 0;
+    border: none;
+    background: none
+}
+
+img {
+    border: none
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    cursor: pointer
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear {
+    clear: both;
+    overflow: hidden;
+    height: 0px;
+    line-height: 0px
+}
+
+.clearafter:after {
+    content: "";
+    width: 100%;
+    clear: both;
+    height: 0;
+    overflow: hidden;
+    display: block
+}
+
+::-webkit-input-placeholder {
+    color: #979797;
+    font-size: 0.28rem;
+}
+
+::-moz-placeholder {
+    color: #979797;
+    font-size: 0.28rem;
+}
+
+:-ms-input-placeholder {
+    color: #979797;
+    font-size: 0.28rem;
+}
+
+/*view*/
+#app {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
